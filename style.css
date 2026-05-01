@@ -40,7 +40,7 @@ canvas {
     max-width: 650px;
     max-height: 500px;
 }
-@media (max-width: auto) {
+@media (max-width: 768) {
     .card {
     background: #1e293b;
     padding: 20px;
