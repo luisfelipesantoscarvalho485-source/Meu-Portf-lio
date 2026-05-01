@@ -6,7 +6,7 @@
 }
 
 .container {
-    display: flex;
+    display: grid;
     justify-content: center;
     gap: 25px;
     margin-top: 35px;
