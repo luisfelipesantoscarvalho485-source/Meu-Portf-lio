@@ -48,7 +48,6 @@ canvas {
     width: auto;
     height: auto;
     box-shadow: 0 0 10px rgba(114, 0, 0, 0.5);
-    max-height: 100px;
     transition: 0.3s;
 }
 }
