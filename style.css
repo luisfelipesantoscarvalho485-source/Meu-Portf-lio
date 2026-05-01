@@ -52,6 +52,7 @@ canvas {
     margin-top: 35px;
     max-height: 500px;
     flex-wrap: wrap;
+    display: inline;
 }
 }
     
