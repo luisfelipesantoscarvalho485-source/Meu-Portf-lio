@@ -6,13 +6,12 @@
 }
 
 .container {
-    display: grid;
+    display: flex;
     justify-content: center;
     gap: 25px;
     margin-top: 35px;
     max-height: 500px;
     flex-wrap: wrap;
-     grid-template-columns: repeat(3, 1fr);
 }
 
 .card {
