@@ -42,7 +42,13 @@ canvas {
     max-height: 500px;
 }
 @media (max-width: 768px) {
+    .card{
+     max-width:70px}
+h2{
+    font-size: 20px
 }
+}
+
     
 
     
