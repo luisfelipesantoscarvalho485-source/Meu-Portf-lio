@@ -42,7 +42,7 @@ canvas {
     max-height: 500px;
 }
 @media (max-width: 768) {
-    .card {
+    .container {
 
     grid-template-columns: repeat(2, 1fr);
 }
