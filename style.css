@@ -43,7 +43,7 @@ canvas {
 @media (max-width: auto) {
     .card {
     background: #1e293b;
-    padding: 10px;
+    padding: 100px;
     border-radius: 10px;
     width: auto;
     height: auto;
