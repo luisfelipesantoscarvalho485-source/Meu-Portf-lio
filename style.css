@@ -43,11 +43,18 @@ canvas {
 }
 
 @media (max-width: 768) {
-    .container {
-
-    grid-template-columns: repeat(2, 1fr);
-    display: inline;
+    .card {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    box-shadow: 0 0 10px rgba(114, 0, 0, 0.5);
+    max-height: 100px;
+    transition: 0.3s;
+    display: flex;
 }
+ 
 
 }
     
