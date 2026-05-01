@@ -12,7 +12,6 @@
     margin-top: 35px;
     max-height: 500px;
     flex-wrap: wrap;
-      display: inline;
 }
 
 .card {
@@ -23,7 +22,6 @@
     box-shadow: 0 0 10px rgba(114, 0, 0, 0.5);
     max-height: 100px;
     transition: 0.3s;
-    display: inline;
 }
 .card p {
     font-size: 20px;
